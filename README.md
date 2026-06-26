@@ -1,5 +1,5 @@
 # 💫 About Me:
- 💫 About Me<br><br>🔭 I'm currently working on building responsive, real-time web applications and expanding my portfolio with API-driven projects.<br><br>🤝 I'm looking to collaborate on frontend design, open-source web applications, and innovative API integrations.<br><br>🧠 I'm looking for help with advanced React patterns, backend architectures, and full-stack system development.<br><br>🌱 I'm currently deepening my knowledge in Full-Stack Web Development, focusing on React, REST APIs, and scalable backend technologies.
+🔭 I'm currently working on building responsive, real-time web applications and expanding my portfolio with API-driven projects.<br><br>🤝 I'm looking to collaborate on frontend design, open-source web applications, and innovative API integrations.<br><br>🧠 I'm looking for help with advanced React patterns, backend architectures, and full-stack system development.<br><br>🌱 I'm currently deepening my knowledge in Full-Stack Web Development, focusing on React, REST APIs, and scalable backend technologies.
 
 
 ## 🌐 Socials:
